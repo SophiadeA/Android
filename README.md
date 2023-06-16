@@ -5,4 +5,4 @@ Como dito em aula ouve a impossibilidade da utilização do Android Studio pela 
 
 
 wiki:
-https://github.com/SophiadeA/Android.wiki.git
+[https://github.com/SophiadeA/Android.wiki.git](https://github.com/SophiadeA/Android/wiki)
